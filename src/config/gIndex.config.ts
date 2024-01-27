@@ -97,7 +97,7 @@ const config: gIndexConfig = {
     /**
      * This value will be used for metadata
      */
-    siteName: "next-gdrive-index",
+    siteName: "SorryToMe-Index",
     siteDescription: "A simple file browser for Google Drive",
     siteIcon: "/flaticon.svg",
     favIcon: "/favicon.svg",
