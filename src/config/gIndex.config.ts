@@ -39,7 +39,7 @@ const config: gIndexConfig = {
      * You need to create a new folder and share it with the service account
      * Then, copy the folder id and paste it here
      */
-    rootFolder: "1KgPV6QB1GYT8fmn2uTfbtr9rDXqcRR0j",
+    rootFolder: "1mwtOjKqgi_fOIe9QmMBaWhGk2IHbMBQ7",
     isTeamDrive: false, // Set this to true if you're using Team Drive
     defaultQuery: ["trashed = false", "(not mimeType contains 'google-apps' or mimeType contains 'folder')"],
     defaultField:
@@ -116,7 +116,7 @@ const config: gIndexConfig = {
      * The site password are set from Environment Variable (NEXT_GDRIVE_INDEX_PASSWORD)
      * It's because I don't want to store sensitive data in the code
      */
-    privateIndex: false,
+    privateIndex: true,
 
     /**
      * Example item:
